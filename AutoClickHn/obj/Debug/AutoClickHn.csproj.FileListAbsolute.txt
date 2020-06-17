@@ -1,0 +1,10 @@
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\bin\Debug\AutoClickHn.exe
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\bin\Debug\AutoClickHn.pdb
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\obj\Debug\AutoClickHn.csprojAssemblyReference.cache
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\obj\Debug\AutoClickHn.Form1.resources
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\obj\Debug\AutoClickHn.Properties.Resources.resources
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\obj\Debug\AutoClickHn.csproj.GenerateResource.cache
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\obj\Debug\AutoClickHn.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\obj\Debug\AutoClickHn.exe
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\obj\Debug\AutoClickHn.pdb
+C:\Users\Caio\source\repos\AutoClickHn\AutoClickHn\bin\Debug\AutoClickHn.exe.config
